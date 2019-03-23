@@ -1,0 +1,58 @@
+Version 0.5 
+- Overall
+	- Money System
+	- Health System
+	- Enemy killing System
+- Level 1
+	- Randomisation between Fly or Slime
+	- Randomisation of number of nullifite ore
+	- Randomisation of number of iron ore
+	- Escape to pause
+- Pause Menu
+	- Back button
+	- stats button
+	- Main Menu button
+	- Controls button
+- stats screen
+	- Basic ingame statistics
+	- Back button
+- Shop
+	- Sword Strength upgrade
+	- Health upgrade
+	- Pickaxe upgrade
+	- Money Multiplier
+	- Back button
+	
+Version 0.6.0 - Changes made since previous version
+- Main Menu
+	- Game logo
+	- Start button
+	- Controls button
+	- Stats button
+- Controls Screen
+	- Keybinds for player control
+	- Back button
+
+Version 0.7 - Changes made since previous version
+- Bug Fixes
+	- Fixed player not showing infront of ore
+	- Fixed player mining time to be based against pickaxe upgrade level
+	- Fixed game aspect ratio to match that of the game window
+- Main Menu
+	- Added Quit button to close game
+- Controls Screen
+	- Escape now returns to previous page along with back button
+- Stats Screen
+	- Escape now returns to previous page along with back button
+- Pause Screen
+	- Escape now returns to previous page along with back button
+- Level 2
+	- Similar mechanics to level 1 with new layout
+	- Introduction to Diamonds
+- All Levels
+	- Debug Overlay 
+	- Portal to next level spawning after all ores mined
+	
+
+
+
