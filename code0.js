@@ -65,6 +65,9 @@ gdjs.MainMenuCode.GDVersionNumObjects3= [];
 gdjs.MainMenuCode.GDDebugInfoObjects1= [];
 gdjs.MainMenuCode.GDDebugInfoObjects2= [];
 gdjs.MainMenuCode.GDDebugInfoObjects3= [];
+gdjs.MainMenuCode.GDHoleObjects1= [];
+gdjs.MainMenuCode.GDHoleObjects2= [];
+gdjs.MainMenuCode.GDHoleObjects3= [];
 gdjs.MainMenuCode.GDLogoObjects1= [];
 gdjs.MainMenuCode.GDLogoObjects2= [];
 gdjs.MainMenuCode.GDLogoObjects3= [];
@@ -95,7 +98,7 @@ gdjs.MainMenuCode.condition0IsTrue_0 = {val:false};
 gdjs.MainMenuCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.MainMenuCode.eventsList0x784d20 = function(runtimeScene) {
+gdjs.MainMenuCode.eventsList0x759458 = function(runtimeScene) {
 
 {
 
@@ -104,8 +107,8 @@ gdjs.MainMenuCode.eventsList0x784d20 = function(runtimeScene) {
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x784d20
-gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.MainMenuCode.GDStartbtnObjects2});gdjs.MainMenuCode.eventsList0x7e23c0 = function(runtimeScene) {
+}; //End of gdjs.MainMenuCode.eventsList0x759458
+gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.MainMenuCode.GDStartbtnObjects2});gdjs.MainMenuCode.eventsList0x730518 = function(runtimeScene) {
 
 {
 
@@ -120,8 +123,8 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x7e23c0
-gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDControlsbtnObjects2Objects = Hashtable.newFrom({"Controlsbtn": gdjs.MainMenuCode.GDControlsbtnObjects2});gdjs.MainMenuCode.eventsList0x81edd8 = function(runtimeScene) {
+}; //End of gdjs.MainMenuCode.eventsList0x730518
+gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDControlsbtnObjects2Objects = Hashtable.newFrom({"Controlsbtn": gdjs.MainMenuCode.GDControlsbtnObjects2});gdjs.MainMenuCode.eventsList0x7d7cc0 = function(runtimeScene) {
 
 {
 
@@ -136,8 +139,8 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x81edd8
-gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDStatsbtnObjects2Objects = Hashtable.newFrom({"Statsbtn": gdjs.MainMenuCode.GDStatsbtnObjects2});gdjs.MainMenuCode.eventsList0x67cea8 = function(runtimeScene) {
+}; //End of gdjs.MainMenuCode.eventsList0x7d7cc0
+gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDStatsbtnObjects2Objects = Hashtable.newFrom({"Statsbtn": gdjs.MainMenuCode.GDStatsbtnObjects2});gdjs.MainMenuCode.eventsList0x833b08 = function(runtimeScene) {
 
 {
 
@@ -152,8 +155,8 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x67cea8
-gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDQuitbtnObjects1Objects = Hashtable.newFrom({"Quitbtn": gdjs.MainMenuCode.GDQuitbtnObjects1});gdjs.MainMenuCode.eventsList0x67c280 = function(runtimeScene) {
+}; //End of gdjs.MainMenuCode.eventsList0x833b08
+gdjs.MainMenuCode.mapOfGDgdjs_46MainMenuCode_46GDQuitbtnObjects1Objects = Hashtable.newFrom({"Quitbtn": gdjs.MainMenuCode.GDQuitbtnObjects1});gdjs.MainMenuCode.eventsList0x694f70 = function(runtimeScene) {
 
 {
 
@@ -168,8 +171,8 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x67c280
-gdjs.MainMenuCode.eventsList0x7e22e8 = function(runtimeScene) {
+}; //End of gdjs.MainMenuCode.eventsList0x694f70
+gdjs.MainMenuCode.eventsList0x75a1c8 = function(runtimeScene) {
 
 {
 
@@ -181,7 +184,7 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.MainMenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MainMenuCode.eventsList0x7e23c0(runtimeScene);} //End of subevents
+gdjs.MainMenuCode.eventsList0x730518(runtimeScene);} //End of subevents
 }
 
 }
@@ -197,7 +200,7 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.MainMenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MainMenuCode.eventsList0x81edd8(runtimeScene);} //End of subevents
+gdjs.MainMenuCode.eventsList0x7d7cc0(runtimeScene);} //End of subevents
 }
 
 }
@@ -213,7 +216,7 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.MainMenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MainMenuCode.eventsList0x67cea8(runtimeScene);} //End of subevents
+gdjs.MainMenuCode.eventsList0x833b08(runtimeScene);} //End of subevents
 }
 
 }
@@ -229,26 +232,26 @@ gdjs.MainMenuCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.MainMenuCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.MainMenuCode.eventsList0x67c280(runtimeScene);} //End of subevents
+gdjs.MainMenuCode.eventsList0x694f70(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.MainMenuCode.eventsList0x7e22e8
+}; //End of gdjs.MainMenuCode.eventsList0x75a1c8
 gdjs.MainMenuCode.eventsList0xb25a8 = function(runtimeScene) {
 
 {
 
 
-gdjs.MainMenuCode.eventsList0x784d20(runtimeScene);
+gdjs.MainMenuCode.eventsList0x759458(runtimeScene);
 }
 
 
 {
 
 
-gdjs.MainMenuCode.eventsList0x7e22e8(runtimeScene);
+gdjs.MainMenuCode.eventsList0x75a1c8(runtimeScene);
 }
 
 
@@ -323,6 +326,9 @@ gdjs.MainMenuCode.GDVersionNumObjects3.length = 0;
 gdjs.MainMenuCode.GDDebugInfoObjects1.length = 0;
 gdjs.MainMenuCode.GDDebugInfoObjects2.length = 0;
 gdjs.MainMenuCode.GDDebugInfoObjects3.length = 0;
+gdjs.MainMenuCode.GDHoleObjects1.length = 0;
+gdjs.MainMenuCode.GDHoleObjects2.length = 0;
+gdjs.MainMenuCode.GDHoleObjects3.length = 0;
 gdjs.MainMenuCode.GDLogoObjects1.length = 0;
 gdjs.MainMenuCode.GDLogoObjects2.length = 0;
 gdjs.MainMenuCode.GDLogoObjects3.length = 0;

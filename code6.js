@@ -65,6 +65,9 @@ gdjs.ControlsCode.GDVersionNumObjects3= [];
 gdjs.ControlsCode.GDDebugInfoObjects1= [];
 gdjs.ControlsCode.GDDebugInfoObjects2= [];
 gdjs.ControlsCode.GDDebugInfoObjects3= [];
+gdjs.ControlsCode.GDHoleObjects1= [];
+gdjs.ControlsCode.GDHoleObjects2= [];
+gdjs.ControlsCode.GDHoleObjects3= [];
 gdjs.ControlsCode.GDTitleObjects1= [];
 gdjs.ControlsCode.GDTitleObjects2= [];
 gdjs.ControlsCode.GDTitleObjects3= [];
@@ -122,7 +125,7 @@ gdjs.ControlsCode.condition0IsTrue_0 = {val:false};
 gdjs.ControlsCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.ControlsCode.eventsList0x7d9ac8 = function(runtimeScene) {
+gdjs.ControlsCode.eventsList0x8944e8 = function(runtimeScene) {
 
 {
 
@@ -136,8 +139,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustB
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0x7d9ac8
-gdjs.ControlsCode.mapOfGDgdjs_46ControlsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.ControlsCode.GDBackbtnObjects2});gdjs.ControlsCode.eventsList0x7842f0 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x8944e8
+gdjs.ControlsCode.mapOfGDgdjs_46ControlsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.ControlsCode.GDBackbtnObjects2});gdjs.ControlsCode.eventsList0x695a18 = function(runtimeScene) {
 
 {
 
@@ -152,8 +155,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0x7842f0
-gdjs.ControlsCode.eventsList0x7cd338 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x695a18
+gdjs.ControlsCode.eventsList0x65d568 = function(runtimeScene) {
 
 {
 
@@ -165,7 +168,7 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.ControlsCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ControlsCode.eventsList0x7842f0(runtimeScene);} //End of subevents
+gdjs.ControlsCode.eventsList0x695a18(runtimeScene);} //End of subevents
 }
 
 }
@@ -184,8 +187,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(ru
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0x7cd338
-gdjs.ControlsCode.eventsList0x70f490 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x65d568
+gdjs.ControlsCode.eventsList0x8930b0 = function(runtimeScene) {
 
 {
 
@@ -196,27 +199,27 @@ gdjs.ControlsCode.eventsList0x70f490 = function(runtimeScene) {
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0x70f490
+}; //End of gdjs.ControlsCode.eventsList0x8930b0
 gdjs.ControlsCode.eventsList0xb25a8 = function(runtimeScene) {
 
 {
 
 
-gdjs.ControlsCode.eventsList0x7d9ac8(runtimeScene);
+gdjs.ControlsCode.eventsList0x8944e8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ControlsCode.eventsList0x7cd338(runtimeScene);
+gdjs.ControlsCode.eventsList0x65d568(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ControlsCode.eventsList0x70f490(runtimeScene);
+gdjs.ControlsCode.eventsList0x8930b0(runtimeScene);
 }
 
 
@@ -291,6 +294,9 @@ gdjs.ControlsCode.GDVersionNumObjects3.length = 0;
 gdjs.ControlsCode.GDDebugInfoObjects1.length = 0;
 gdjs.ControlsCode.GDDebugInfoObjects2.length = 0;
 gdjs.ControlsCode.GDDebugInfoObjects3.length = 0;
+gdjs.ControlsCode.GDHoleObjects1.length = 0;
+gdjs.ControlsCode.GDHoleObjects2.length = 0;
+gdjs.ControlsCode.GDHoleObjects3.length = 0;
 gdjs.ControlsCode.GDTitleObjects1.length = 0;
 gdjs.ControlsCode.GDTitleObjects2.length = 0;
 gdjs.ControlsCode.GDTitleObjects3.length = 0;

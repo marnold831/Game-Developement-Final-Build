@@ -65,6 +65,9 @@ gdjs.StatsCode.GDVersionNumObjects3= [];
 gdjs.StatsCode.GDDebugInfoObjects1= [];
 gdjs.StatsCode.GDDebugInfoObjects2= [];
 gdjs.StatsCode.GDDebugInfoObjects3= [];
+gdjs.StatsCode.GDHoleObjects1= [];
+gdjs.StatsCode.GDHoleObjects2= [];
+gdjs.StatsCode.GDHoleObjects3= [];
 gdjs.StatsCode.GDBackbtnObjects1= [];
 gdjs.StatsCode.GDBackbtnObjects2= [];
 gdjs.StatsCode.GDBackbtnObjects3= [];
@@ -134,7 +137,7 @@ gdjs.StatsCode.condition0IsTrue_0 = {val:false};
 gdjs.StatsCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.StatsCode.eventsList0x7d9ac8 = function(runtimeScene) {
+gdjs.StatsCode.eventsList0x8944e8 = function(runtimeScene) {
 
 {
 
@@ -184,8 +187,8 @@ gdjs.StatsCode.GDtotalNullifiteNumObjects1.createFrom(runtimeScene.getObjects("t
 }
 
 
-}; //End of gdjs.StatsCode.eventsList0x7d9ac8
-gdjs.StatsCode.mapOfGDgdjs_46StatsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.StatsCode.GDBackbtnObjects2});gdjs.StatsCode.eventsList0x7cd280 = function(runtimeScene) {
+}; //End of gdjs.StatsCode.eventsList0x8944e8
+gdjs.StatsCode.mapOfGDgdjs_46StatsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.StatsCode.GDBackbtnObjects2});gdjs.StatsCode.eventsList0x78dec0 = function(runtimeScene) {
 
 {
 
@@ -200,8 +203,8 @@ gdjs.StatsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRelease
 }
 
 
-}; //End of gdjs.StatsCode.eventsList0x7cd280
-gdjs.StatsCode.eventsList0x7cd1a8 = function(runtimeScene) {
+}; //End of gdjs.StatsCode.eventsList0x78dec0
+gdjs.StatsCode.eventsList0x7ea340 = function(runtimeScene) {
 
 {
 
@@ -213,7 +216,7 @@ gdjs.StatsCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.
 }if (gdjs.StatsCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.StatsCode.eventsList0x7cd280(runtimeScene);} //End of subevents
+gdjs.StatsCode.eventsList0x78dec0(runtimeScene);} //End of subevents
 }
 
 }
@@ -232,20 +235,20 @@ gdjs.StatsCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(runti
 }
 
 
-}; //End of gdjs.StatsCode.eventsList0x7cd1a8
+}; //End of gdjs.StatsCode.eventsList0x7ea340
 gdjs.StatsCode.eventsList0xb25a8 = function(runtimeScene) {
 
 {
 
 
-gdjs.StatsCode.eventsList0x7d9ac8(runtimeScene);
+gdjs.StatsCode.eventsList0x8944e8(runtimeScene);
 }
 
 
 {
 
 
-gdjs.StatsCode.eventsList0x7cd1a8(runtimeScene);
+gdjs.StatsCode.eventsList0x7ea340(runtimeScene);
 }
 
 
@@ -320,6 +323,9 @@ gdjs.StatsCode.GDVersionNumObjects3.length = 0;
 gdjs.StatsCode.GDDebugInfoObjects1.length = 0;
 gdjs.StatsCode.GDDebugInfoObjects2.length = 0;
 gdjs.StatsCode.GDDebugInfoObjects3.length = 0;
+gdjs.StatsCode.GDHoleObjects1.length = 0;
+gdjs.StatsCode.GDHoleObjects2.length = 0;
+gdjs.StatsCode.GDHoleObjects3.length = 0;
 gdjs.StatsCode.GDBackbtnObjects1.length = 0;
 gdjs.StatsCode.GDBackbtnObjects2.length = 0;
 gdjs.StatsCode.GDBackbtnObjects3.length = 0;
