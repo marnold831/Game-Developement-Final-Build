@@ -107,7 +107,7 @@ gdjs.Debug_32ControlsCode.condition0IsTrue_0 = {val:false};
 gdjs.Debug_32ControlsCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.Debug_32ControlsCode.mapOfGDgdjs_46Debug_9532ControlsCode_46GDBackBtnObjects1Objects = Hashtable.newFrom({"BackBtn": gdjs.Debug_32ControlsCode.GDBackBtnObjects1});gdjs.Debug_32ControlsCode.eventsList0xaff928 = function(runtimeScene) {
+gdjs.Debug_32ControlsCode.mapOfGDgdjs_46Debug_9532ControlsCode_46GDBackBtnObjects1Objects = Hashtable.newFrom({"BackBtn": gdjs.Debug_32ControlsCode.GDBackBtnObjects1});gdjs.Debug_32ControlsCode.eventsList0x78e848 = function(runtimeScene) {
 
 {
 
@@ -122,8 +122,8 @@ gdjs.Debug_32ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseBu
 }
 
 
-}; //End of gdjs.Debug_32ControlsCode.eventsList0xaff928
-gdjs.Debug_32ControlsCode.eventsList0xf9e750 = function(runtimeScene) {
+}; //End of gdjs.Debug_32ControlsCode.eventsList0x78e848
+gdjs.Debug_32ControlsCode.eventsList0x9e1bb0 = function(runtimeScene) {
 
 {
 
@@ -135,19 +135,19 @@ gdjs.Debug_32ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnO
 }if (gdjs.Debug_32ControlsCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.Debug_32ControlsCode.eventsList0xaff928(runtimeScene);} //End of subevents
+gdjs.Debug_32ControlsCode.eventsList0x78e848(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.Debug_32ControlsCode.eventsList0xf9e750
+}; //End of gdjs.Debug_32ControlsCode.eventsList0x9e1bb0
 gdjs.Debug_32ControlsCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.Debug_32ControlsCode.eventsList0xf9e750(runtimeScene);
+gdjs.Debug_32ControlsCode.eventsList0x9e1bb0(runtimeScene);
 }
 
 

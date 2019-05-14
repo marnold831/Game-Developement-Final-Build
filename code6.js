@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 gdjs.ShopCode = {};
 gdjs.ShopCode.GDDirtWallObjects1= [];
 gdjs.ShopCode.GDDirtWallObjects2= [];
@@ -306,7 +305,7 @@ gdjs.ShopCode.condition0IsTrue_0 = {val:false};
 gdjs.ShopCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.ShopCode.eventsList0xa312f0 = function(runtimeScene) {
+gdjs.ShopCode.eventsList0x878d58 = function(runtimeScene) {
 
 {
 
@@ -340,8 +339,8 @@ gdjs.ShopCode.GDSwordCantBuyObjects1.createFrom(runtimeScene.getObjects("SwordCa
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xa312f0
-gdjs.ShopCode.eventsList0xaf8cc8 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x878d58
+gdjs.ShopCode.eventsList0x8791b0 = function(runtimeScene) {
 
 {
 
@@ -368,8 +367,8 @@ gdjs.ShopCode.GDSwordUpgradeCostObjects1.createFrom(runtimeScene.getObjects("Swo
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xaf8cc8
-gdjs.ShopCode.eventsList0x6dd7c0 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x8791b0
+gdjs.ShopCode.eventsList0x8797a0 = function(runtimeScene) {
 
 {
 
@@ -382,8 +381,8 @@ gdjs.ShopCode.eventsList0x6dd7c0 = function(runtimeScene) {
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0x6dd7c0
-gdjs.ShopCode.eventsList0xc153c0 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x8797a0
+gdjs.ShopCode.eventsList0x879a60 = function(runtimeScene) {
 
 {
 
@@ -464,8 +463,8 @@ gdjs.ShopCode.GDPickaxeUpgradeCostObjects1.createFrom(runtimeScene.getObjects("P
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc153c0
-gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonSwordObjects2Objects = Hashtable.newFrom({"BuyButtonSword": gdjs.ShopCode.GDBuyButtonSwordObjects2});gdjs.ShopCode.eventsList0xc15188 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x879a60
+gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonSwordObjects2Objects = Hashtable.newFrom({"BuyButtonSword": gdjs.ShopCode.GDBuyButtonSwordObjects2});gdjs.ShopCode.eventsList0x87aba8 = function(runtimeScene) {
 
 {
 
@@ -501,8 +500,8 @@ gdjs.ShopCode.GDSwordCantBuyObjects2.createFrom(runtimeScene.getObjects("SwordCa
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc15188
-gdjs.ShopCode.eventsList0xc15020 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87aba8
+gdjs.ShopCode.eventsList0x87aa40 = function(runtimeScene) {
 
 {
 
@@ -513,14 +512,14 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xc15188(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87aba8(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc15020
-gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonHealthObjects2Objects = Hashtable.newFrom({"BuyButtonHealth": gdjs.ShopCode.GDBuyButtonHealthObjects2});gdjs.ShopCode.eventsList0xc34bf8 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87aa40
+gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonHealthObjects2Objects = Hashtable.newFrom({"BuyButtonHealth": gdjs.ShopCode.GDBuyButtonHealthObjects2});gdjs.ShopCode.eventsList0x87b7f0 = function(runtimeScene) {
 
 {
 
@@ -556,8 +555,8 @@ gdjs.ShopCode.GDHealthCantBuyObjects2.createFrom(runtimeScene.getObjects("Health
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc34bf8
-gdjs.ShopCode.eventsList0xc34a90 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87b7f0
+gdjs.ShopCode.eventsList0x87b678 = function(runtimeScene) {
 
 {
 
@@ -568,14 +567,14 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xc34bf8(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87b7f0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc34a90
-gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonMulitplierObjects2Objects = Hashtable.newFrom({"BuyButtonMulitplier": gdjs.ShopCode.GDBuyButtonMulitplierObjects2});gdjs.ShopCode.eventsList0xa31088 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87b678
+gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonMulitplierObjects2Objects = Hashtable.newFrom({"BuyButtonMulitplier": gdjs.ShopCode.GDBuyButtonMulitplierObjects2});gdjs.ShopCode.eventsList0x87c440 = function(runtimeScene) {
 
 {
 
@@ -611,8 +610,8 @@ gdjs.ShopCode.GDMultiplierCantBuyObjects2.createFrom(runtimeScene.getObjects("Mu
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xa31088
-gdjs.ShopCode.eventsList0xadb6a0 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87c440
+gdjs.ShopCode.eventsList0x87c2c8 = function(runtimeScene) {
 
 {
 
@@ -623,14 +622,14 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xa31088(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87c440(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xadb6a0
-gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonPickaxeObjects2Objects = Hashtable.newFrom({"BuyButtonPickaxe": gdjs.ShopCode.GDBuyButtonPickaxeObjects2});gdjs.ShopCode.eventsList0xeba6a0 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87c2c8
+gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBuyButtonPickaxeObjects2Objects = Hashtable.newFrom({"BuyButtonPickaxe": gdjs.ShopCode.GDBuyButtonPickaxeObjects2});gdjs.ShopCode.eventsList0x87d0e0 = function(runtimeScene) {
 
 {
 
@@ -660,172 +659,13 @@ gdjs.ShopCode.GDPickaxeCantBuyObjects2.createFrom(runtimeScene.getObjects("Picka
 {for(var i = 0, len = gdjs.ShopCode.GDPickaxeCantBuyObjects2.length ;i < len;++i) {
     gdjs.ShopCode.GDPickaxeCantBuyObjects2[i].hide(false);
 }
-=======
-gdjs.ControlsCode = {};
-gdjs.ControlsCode.GDDirtWallObjects1= [];
-gdjs.ControlsCode.GDDirtWallObjects2= [];
-gdjs.ControlsCode.GDDirtWallObjects3= [];
-gdjs.ControlsCode.GDDirtBlockObjects1= [];
-gdjs.ControlsCode.GDDirtBlockObjects2= [];
-gdjs.ControlsCode.GDDirtBlockObjects3= [];
-gdjs.ControlsCode.GDMoneyObjects1= [];
-gdjs.ControlsCode.GDMoneyObjects2= [];
-gdjs.ControlsCode.GDMoneyObjects3= [];
-gdjs.ControlsCode.GDMoneyValueObjects1= [];
-gdjs.ControlsCode.GDMoneyValueObjects2= [];
-gdjs.ControlsCode.GDMoneyValueObjects3= [];
-gdjs.ControlsCode.GDQuitbtnObjects1= [];
-gdjs.ControlsCode.GDQuitbtnObjects2= [];
-gdjs.ControlsCode.GDQuitbtnObjects3= [];
-gdjs.ControlsCode.GDHealthObjects1= [];
-gdjs.ControlsCode.GDHealthObjects2= [];
-gdjs.ControlsCode.GDHealthObjects3= [];
-gdjs.ControlsCode.GDPlayerObjects1= [];
-gdjs.ControlsCode.GDPlayerObjects2= [];
-gdjs.ControlsCode.GDPlayerObjects3= [];
-gdjs.ControlsCode.GDNullifiteOreObjects1= [];
-gdjs.ControlsCode.GDNullifiteOreObjects2= [];
-gdjs.ControlsCode.GDNullifiteOreObjects3= [];
-gdjs.ControlsCode.GDIronOreObjects1= [];
-gdjs.ControlsCode.GDIronOreObjects2= [];
-gdjs.ControlsCode.GDIronOreObjects3= [];
-gdjs.ControlsCode.GDDiamondObjects1= [];
-gdjs.ControlsCode.GDDiamondObjects2= [];
-gdjs.ControlsCode.GDDiamondObjects3= [];
-gdjs.ControlsCode.GDFlyObjects1= [];
-gdjs.ControlsCode.GDFlyObjects2= [];
-gdjs.ControlsCode.GDFlyObjects3= [];
-gdjs.ControlsCode.GDSlimeObjects1= [];
-gdjs.ControlsCode.GDSlimeObjects2= [];
-gdjs.ControlsCode.GDSlimeObjects3= [];
-gdjs.ControlsCode.GDLeftBlockObjects1= [];
-gdjs.ControlsCode.GDLeftBlockObjects2= [];
-gdjs.ControlsCode.GDLeftBlockObjects3= [];
-gdjs.ControlsCode.GDRighBlockObjects1= [];
-gdjs.ControlsCode.GDRighBlockObjects2= [];
-gdjs.ControlsCode.GDRighBlockObjects3= [];
-gdjs.ControlsCode.GDladderObjects1= [];
-gdjs.ControlsCode.GDladderObjects2= [];
-gdjs.ControlsCode.GDladderObjects3= [];
-gdjs.ControlsCode.GDHealthValueObjects1= [];
-gdjs.ControlsCode.GDHealthValueObjects2= [];
-gdjs.ControlsCode.GDHealthValueObjects3= [];
-gdjs.ControlsCode.GDnumBlocksInSceneObjects1= [];
-gdjs.ControlsCode.GDnumBlocksInSceneObjects2= [];
-gdjs.ControlsCode.GDnumBlocksInSceneObjects3= [];
-gdjs.ControlsCode.GDDigTimerObjects1= [];
-gdjs.ControlsCode.GDDigTimerObjects2= [];
-gdjs.ControlsCode.GDDigTimerObjects3= [];
-gdjs.ControlsCode.GDTimeToDigObjects1= [];
-gdjs.ControlsCode.GDTimeToDigObjects2= [];
-gdjs.ControlsCode.GDTimeToDigObjects3= [];
-gdjs.ControlsCode.GDNumEnemiesObjects1= [];
-gdjs.ControlsCode.GDNumEnemiesObjects2= [];
-gdjs.ControlsCode.GDNumEnemiesObjects3= [];
-gdjs.ControlsCode.GDVersionNumObjects1= [];
-gdjs.ControlsCode.GDVersionNumObjects2= [];
-gdjs.ControlsCode.GDVersionNumObjects3= [];
-gdjs.ControlsCode.GDDebugInfoObjects1= [];
-gdjs.ControlsCode.GDDebugInfoObjects2= [];
-gdjs.ControlsCode.GDDebugInfoObjects3= [];
-gdjs.ControlsCode.GDHoleObjects1= [];
-gdjs.ControlsCode.GDHoleObjects2= [];
-gdjs.ControlsCode.GDHoleObjects3= [];
-gdjs.ControlsCode.GDTitleObjects1= [];
-gdjs.ControlsCode.GDTitleObjects2= [];
-gdjs.ControlsCode.GDTitleObjects3= [];
-gdjs.ControlsCode.GDMoveUptxtObjects1= [];
-gdjs.ControlsCode.GDMoveUptxtObjects2= [];
-gdjs.ControlsCode.GDMoveUptxtObjects3= [];
-gdjs.ControlsCode.GDMoveDowntxtObjects1= [];
-gdjs.ControlsCode.GDMoveDowntxtObjects2= [];
-gdjs.ControlsCode.GDMoveDowntxtObjects3= [];
-gdjs.ControlsCode.GDMoveLefttxtObjects1= [];
-gdjs.ControlsCode.GDMoveLefttxtObjects2= [];
-gdjs.ControlsCode.GDMoveLefttxtObjects3= [];
-gdjs.ControlsCode.GDMoveRighttxtObjects1= [];
-gdjs.ControlsCode.GDMoveRighttxtObjects2= [];
-gdjs.ControlsCode.GDMoveRighttxtObjects3= [];
-gdjs.ControlsCode.GDMinetxtObjects1= [];
-gdjs.ControlsCode.GDMinetxtObjects2= [];
-gdjs.ControlsCode.GDMinetxtObjects3= [];
-gdjs.ControlsCode.GDSwingSwordtxtObjects1= [];
-gdjs.ControlsCode.GDSwingSwordtxtObjects2= [];
-gdjs.ControlsCode.GDSwingSwordtxtObjects3= [];
-gdjs.ControlsCode.GDPausetxtObjects1= [];
-gdjs.ControlsCode.GDPausetxtObjects2= [];
-gdjs.ControlsCode.GDPausetxtObjects3= [];
-gdjs.ControlsCode.GDUptxtObjects1= [];
-gdjs.ControlsCode.GDUptxtObjects2= [];
-gdjs.ControlsCode.GDUptxtObjects3= [];
-gdjs.ControlsCode.GDDowntxtObjects1= [];
-gdjs.ControlsCode.GDDowntxtObjects2= [];
-gdjs.ControlsCode.GDDowntxtObjects3= [];
-gdjs.ControlsCode.GDLefttxtObjects1= [];
-gdjs.ControlsCode.GDLefttxtObjects2= [];
-gdjs.ControlsCode.GDLefttxtObjects3= [];
-gdjs.ControlsCode.GDRighttxtObjects1= [];
-gdjs.ControlsCode.GDRighttxtObjects2= [];
-gdjs.ControlsCode.GDRighttxtObjects3= [];
-gdjs.ControlsCode.GDDtxtObjects1= [];
-gdjs.ControlsCode.GDDtxtObjects2= [];
-gdjs.ControlsCode.GDDtxtObjects3= [];
-gdjs.ControlsCode.GDSpacebartxtObjects1= [];
-gdjs.ControlsCode.GDSpacebartxtObjects2= [];
-gdjs.ControlsCode.GDSpacebartxtObjects3= [];
-gdjs.ControlsCode.GDEscapetxtObjects1= [];
-gdjs.ControlsCode.GDEscapetxtObjects2= [];
-gdjs.ControlsCode.GDEscapetxtObjects3= [];
-gdjs.ControlsCode.GDBackbtnObjects1= [];
-gdjs.ControlsCode.GDBackbtnObjects2= [];
-gdjs.ControlsCode.GDBackbtnObjects3= [];
-gdjs.ControlsCode.GDBackbtntxtObjects1= [];
-gdjs.ControlsCode.GDBackbtntxtObjects2= [];
-gdjs.ControlsCode.GDBackbtntxtObjects3= [];
-
-gdjs.ControlsCode.conditionTrue_0 = {val:false};
-gdjs.ControlsCode.condition0IsTrue_0 = {val:false};
-gdjs.ControlsCode.condition1IsTrue_0 = {val:false};
-
-
-gdjs.ControlsCode.eventsList0x8944e8 = function(runtimeScene) {
-
-{
-
-
-gdjs.ControlsCode.condition0IsTrue_0.val = false;
-{
-gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
-}if (gdjs.ControlsCode.condition0IsTrue_0.val) {
-}
-
-}
-
-
-}; //End of gdjs.ControlsCode.eventsList0x8944e8
-gdjs.ControlsCode.mapOfGDgdjs_46ControlsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.ControlsCode.GDBackbtnObjects2});gdjs.ControlsCode.eventsList0x695a18 = function(runtimeScene) {
-
-{
-
-
-gdjs.ControlsCode.condition0IsTrue_0.val = false;
-{
-gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
-}if (gdjs.ControlsCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.runtimeScene.popScene(runtimeScene);
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 }}
 
 }
 
 
-<<<<<<< HEAD
-}; //End of gdjs.ShopCode.eventsList0xeba6a0
-gdjs.ShopCode.eventsList0xeba540 = function(runtimeScene) {
-=======
-}; //End of gdjs.ControlsCode.eventsList0x695a18
-gdjs.ControlsCode.eventsList0x65d568 = function(runtimeScene) {
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
+}; //End of gdjs.ShopCode.eventsList0x87d0e0
+gdjs.ShopCode.eventsList0x87cf70 = function(runtimeScene) {
 
 {
 
@@ -836,18 +676,14 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-<<<<<<< HEAD
-gdjs.ShopCode.eventsList0xeba6a0(runtimeScene);} //End of subevents
-=======
-gdjs.ControlsCode.eventsList0x695a18(runtimeScene);} //End of subevents
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
+gdjs.ShopCode.eventsList0x87d0e0(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xeba540
-gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBackbtnObjects1Objects = Hashtable.newFrom({"Backbtn": gdjs.ShopCode.GDBackbtnObjects1});gdjs.ShopCode.eventsList0x9b51b8 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87cf70
+gdjs.ShopCode.mapOfGDgdjs_46ShopCode_46GDBackbtnObjects1Objects = Hashtable.newFrom({"Backbtn": gdjs.ShopCode.GDBackbtnObjects1});gdjs.ShopCode.eventsList0x87dad8 = function(runtimeScene) {
 
 {
 
@@ -862,9 +698,8 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased
 }
 
 
-<<<<<<< HEAD
-}; //End of gdjs.ShopCode.eventsList0x9b51b8
-gdjs.ShopCode.eventsList0xc17818 = function(runtimeScene) {
+}; //End of gdjs.ShopCode.eventsList0x87dad8
+gdjs.ShopCode.eventsList0x87a968 = function(runtimeScene) {
 
 {
 
@@ -876,15 +711,11 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.S
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xc15020(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87aa40(runtimeScene);} //End of subevents
 }
 
 }
 
-=======
-}; //End of gdjs.ControlsCode.eventsList0x65d568
-gdjs.ControlsCode.eventsList0x8930b0 = function(runtimeScene) {
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 
 {
 
@@ -896,20 +727,15 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.S
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xc34a90(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87b678(runtimeScene);} //End of subevents
 }
 
 }
 
 
-<<<<<<< HEAD
 {
 
 gdjs.ShopCode.GDBuyButtonMulitplierObjects2.createFrom(runtimeScene.getObjects("BuyButtonMulitplier"));
-=======
-}; //End of gdjs.ControlsCode.eventsList0x8930b0
-gdjs.ControlsCode.eventsList0xb25a8 = function(runtimeScene) {
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 
 gdjs.ShopCode.condition0IsTrue_0.val = false;
 {
@@ -917,13 +743,9 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.S
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xadb6a0(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87c2c8(runtimeScene);} //End of subevents
 }
 
-<<<<<<< HEAD
-=======
-gdjs.ControlsCode.eventsList0x8944e8(runtimeScene);
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 }
 
 
@@ -937,13 +759,9 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.S
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0xeba540(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87cf70(runtimeScene);} //End of subevents
 }
 
-<<<<<<< HEAD
-=======
-gdjs.ControlsCode.eventsList0x65d568(runtimeScene);
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 }
 
 
@@ -957,51 +775,47 @@ gdjs.ShopCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.S
 }if (gdjs.ShopCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ShopCode.eventsList0x9b51b8(runtimeScene);} //End of subevents
+gdjs.ShopCode.eventsList0x87dad8(runtimeScene);} //End of subevents
 }
 
-<<<<<<< HEAD
-=======
-gdjs.ControlsCode.eventsList0x8930b0(runtimeScene);
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 }
 
 
-}; //End of gdjs.ShopCode.eventsList0xc17818
+}; //End of gdjs.ShopCode.eventsList0x87a968
 gdjs.ShopCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.ShopCode.eventsList0xa312f0(runtimeScene);
+gdjs.ShopCode.eventsList0x878d58(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ShopCode.eventsList0xaf8cc8(runtimeScene);
+gdjs.ShopCode.eventsList0x8791b0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ShopCode.eventsList0x6dd7c0(runtimeScene);
+gdjs.ShopCode.eventsList0x8797a0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ShopCode.eventsList0xc153c0(runtimeScene);
+gdjs.ShopCode.eventsList0x879a60(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ShopCode.eventsList0xc17818(runtimeScene);
+gdjs.ShopCode.eventsList0x87a968(runtimeScene);
 }
 
 
@@ -1010,7 +824,6 @@ gdjs.ShopCode.eventsList0xc17818(runtimeScene);
 
 gdjs.ShopCode.func = function(runtimeScene) {
 runtimeScene.getOnceTriggers().startNewFrame();
-<<<<<<< HEAD
 gdjs.ShopCode.GDDirtWallObjects1.length = 0;
 gdjs.ShopCode.GDDirtWallObjects2.length = 0;
 gdjs.ShopCode.GDDirtWallObjects3.length = 0;
@@ -1313,130 +1126,6 @@ gdjs.ShopCode.GDBackbtntxtObjects3.length = 0;
 gdjs.ShopCode.GDBackbtntxtObjects4.length = 0;
 
 gdjs.ShopCode.eventsList0xb2358(runtimeScene);
-=======
-gdjs.ControlsCode.GDDirtWallObjects1.length = 0;
-gdjs.ControlsCode.GDDirtWallObjects2.length = 0;
-gdjs.ControlsCode.GDDirtWallObjects3.length = 0;
-gdjs.ControlsCode.GDDirtBlockObjects1.length = 0;
-gdjs.ControlsCode.GDDirtBlockObjects2.length = 0;
-gdjs.ControlsCode.GDDirtBlockObjects3.length = 0;
-gdjs.ControlsCode.GDMoneyObjects1.length = 0;
-gdjs.ControlsCode.GDMoneyObjects2.length = 0;
-gdjs.ControlsCode.GDMoneyObjects3.length = 0;
-gdjs.ControlsCode.GDMoneyValueObjects1.length = 0;
-gdjs.ControlsCode.GDMoneyValueObjects2.length = 0;
-gdjs.ControlsCode.GDMoneyValueObjects3.length = 0;
-gdjs.ControlsCode.GDQuitbtnObjects1.length = 0;
-gdjs.ControlsCode.GDQuitbtnObjects2.length = 0;
-gdjs.ControlsCode.GDQuitbtnObjects3.length = 0;
-gdjs.ControlsCode.GDHealthObjects1.length = 0;
-gdjs.ControlsCode.GDHealthObjects2.length = 0;
-gdjs.ControlsCode.GDHealthObjects3.length = 0;
-gdjs.ControlsCode.GDPlayerObjects1.length = 0;
-gdjs.ControlsCode.GDPlayerObjects2.length = 0;
-gdjs.ControlsCode.GDPlayerObjects3.length = 0;
-gdjs.ControlsCode.GDNullifiteOreObjects1.length = 0;
-gdjs.ControlsCode.GDNullifiteOreObjects2.length = 0;
-gdjs.ControlsCode.GDNullifiteOreObjects3.length = 0;
-gdjs.ControlsCode.GDIronOreObjects1.length = 0;
-gdjs.ControlsCode.GDIronOreObjects2.length = 0;
-gdjs.ControlsCode.GDIronOreObjects3.length = 0;
-gdjs.ControlsCode.GDDiamondObjects1.length = 0;
-gdjs.ControlsCode.GDDiamondObjects2.length = 0;
-gdjs.ControlsCode.GDDiamondObjects3.length = 0;
-gdjs.ControlsCode.GDFlyObjects1.length = 0;
-gdjs.ControlsCode.GDFlyObjects2.length = 0;
-gdjs.ControlsCode.GDFlyObjects3.length = 0;
-gdjs.ControlsCode.GDSlimeObjects1.length = 0;
-gdjs.ControlsCode.GDSlimeObjects2.length = 0;
-gdjs.ControlsCode.GDSlimeObjects3.length = 0;
-gdjs.ControlsCode.GDLeftBlockObjects1.length = 0;
-gdjs.ControlsCode.GDLeftBlockObjects2.length = 0;
-gdjs.ControlsCode.GDLeftBlockObjects3.length = 0;
-gdjs.ControlsCode.GDRighBlockObjects1.length = 0;
-gdjs.ControlsCode.GDRighBlockObjects2.length = 0;
-gdjs.ControlsCode.GDRighBlockObjects3.length = 0;
-gdjs.ControlsCode.GDladderObjects1.length = 0;
-gdjs.ControlsCode.GDladderObjects2.length = 0;
-gdjs.ControlsCode.GDladderObjects3.length = 0;
-gdjs.ControlsCode.GDHealthValueObjects1.length = 0;
-gdjs.ControlsCode.GDHealthValueObjects2.length = 0;
-gdjs.ControlsCode.GDHealthValueObjects3.length = 0;
-gdjs.ControlsCode.GDnumBlocksInSceneObjects1.length = 0;
-gdjs.ControlsCode.GDnumBlocksInSceneObjects2.length = 0;
-gdjs.ControlsCode.GDnumBlocksInSceneObjects3.length = 0;
-gdjs.ControlsCode.GDDigTimerObjects1.length = 0;
-gdjs.ControlsCode.GDDigTimerObjects2.length = 0;
-gdjs.ControlsCode.GDDigTimerObjects3.length = 0;
-gdjs.ControlsCode.GDTimeToDigObjects1.length = 0;
-gdjs.ControlsCode.GDTimeToDigObjects2.length = 0;
-gdjs.ControlsCode.GDTimeToDigObjects3.length = 0;
-gdjs.ControlsCode.GDNumEnemiesObjects1.length = 0;
-gdjs.ControlsCode.GDNumEnemiesObjects2.length = 0;
-gdjs.ControlsCode.GDNumEnemiesObjects3.length = 0;
-gdjs.ControlsCode.GDVersionNumObjects1.length = 0;
-gdjs.ControlsCode.GDVersionNumObjects2.length = 0;
-gdjs.ControlsCode.GDVersionNumObjects3.length = 0;
-gdjs.ControlsCode.GDDebugInfoObjects1.length = 0;
-gdjs.ControlsCode.GDDebugInfoObjects2.length = 0;
-gdjs.ControlsCode.GDDebugInfoObjects3.length = 0;
-gdjs.ControlsCode.GDHoleObjects1.length = 0;
-gdjs.ControlsCode.GDHoleObjects2.length = 0;
-gdjs.ControlsCode.GDHoleObjects3.length = 0;
-gdjs.ControlsCode.GDTitleObjects1.length = 0;
-gdjs.ControlsCode.GDTitleObjects2.length = 0;
-gdjs.ControlsCode.GDTitleObjects3.length = 0;
-gdjs.ControlsCode.GDMoveUptxtObjects1.length = 0;
-gdjs.ControlsCode.GDMoveUptxtObjects2.length = 0;
-gdjs.ControlsCode.GDMoveUptxtObjects3.length = 0;
-gdjs.ControlsCode.GDMoveDowntxtObjects1.length = 0;
-gdjs.ControlsCode.GDMoveDowntxtObjects2.length = 0;
-gdjs.ControlsCode.GDMoveDowntxtObjects3.length = 0;
-gdjs.ControlsCode.GDMoveLefttxtObjects1.length = 0;
-gdjs.ControlsCode.GDMoveLefttxtObjects2.length = 0;
-gdjs.ControlsCode.GDMoveLefttxtObjects3.length = 0;
-gdjs.ControlsCode.GDMoveRighttxtObjects1.length = 0;
-gdjs.ControlsCode.GDMoveRighttxtObjects2.length = 0;
-gdjs.ControlsCode.GDMoveRighttxtObjects3.length = 0;
-gdjs.ControlsCode.GDMinetxtObjects1.length = 0;
-gdjs.ControlsCode.GDMinetxtObjects2.length = 0;
-gdjs.ControlsCode.GDMinetxtObjects3.length = 0;
-gdjs.ControlsCode.GDSwingSwordtxtObjects1.length = 0;
-gdjs.ControlsCode.GDSwingSwordtxtObjects2.length = 0;
-gdjs.ControlsCode.GDSwingSwordtxtObjects3.length = 0;
-gdjs.ControlsCode.GDPausetxtObjects1.length = 0;
-gdjs.ControlsCode.GDPausetxtObjects2.length = 0;
-gdjs.ControlsCode.GDPausetxtObjects3.length = 0;
-gdjs.ControlsCode.GDUptxtObjects1.length = 0;
-gdjs.ControlsCode.GDUptxtObjects2.length = 0;
-gdjs.ControlsCode.GDUptxtObjects3.length = 0;
-gdjs.ControlsCode.GDDowntxtObjects1.length = 0;
-gdjs.ControlsCode.GDDowntxtObjects2.length = 0;
-gdjs.ControlsCode.GDDowntxtObjects3.length = 0;
-gdjs.ControlsCode.GDLefttxtObjects1.length = 0;
-gdjs.ControlsCode.GDLefttxtObjects2.length = 0;
-gdjs.ControlsCode.GDLefttxtObjects3.length = 0;
-gdjs.ControlsCode.GDRighttxtObjects1.length = 0;
-gdjs.ControlsCode.GDRighttxtObjects2.length = 0;
-gdjs.ControlsCode.GDRighttxtObjects3.length = 0;
-gdjs.ControlsCode.GDDtxtObjects1.length = 0;
-gdjs.ControlsCode.GDDtxtObjects2.length = 0;
-gdjs.ControlsCode.GDDtxtObjects3.length = 0;
-gdjs.ControlsCode.GDSpacebartxtObjects1.length = 0;
-gdjs.ControlsCode.GDSpacebartxtObjects2.length = 0;
-gdjs.ControlsCode.GDSpacebartxtObjects3.length = 0;
-gdjs.ControlsCode.GDEscapetxtObjects1.length = 0;
-gdjs.ControlsCode.GDEscapetxtObjects2.length = 0;
-gdjs.ControlsCode.GDEscapetxtObjects3.length = 0;
-gdjs.ControlsCode.GDBackbtnObjects1.length = 0;
-gdjs.ControlsCode.GDBackbtnObjects2.length = 0;
-gdjs.ControlsCode.GDBackbtnObjects3.length = 0;
-gdjs.ControlsCode.GDBackbtntxtObjects1.length = 0;
-gdjs.ControlsCode.GDBackbtntxtObjects2.length = 0;
-gdjs.ControlsCode.GDBackbtntxtObjects3.length = 0;
-
-gdjs.ControlsCode.eventsList0xb25a8(runtimeScene);
->>>>>>> 60be32c01efd23d1d040de69a6ca0de59a895ee0
 return;
 }
 gdjs['ShopCode'] = gdjs.ShopCode;

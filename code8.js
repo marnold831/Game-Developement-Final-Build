@@ -158,7 +158,7 @@ gdjs.ControlsCode.condition0IsTrue_0 = {val:false};
 gdjs.ControlsCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.ControlsCode.eventsList0xa312f0 = function(runtimeScene) {
+gdjs.ControlsCode.eventsList0x87d740 = function(runtimeScene) {
 
 {
 
@@ -172,8 +172,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustB
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0xa312f0
-gdjs.ControlsCode.mapOfGDgdjs_46ControlsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.ControlsCode.GDBackbtnObjects2});gdjs.ControlsCode.eventsList0xaf0b20 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x87d740
+gdjs.ControlsCode.mapOfGDgdjs_46ControlsCode_46GDBackbtnObjects2Objects = Hashtable.newFrom({"Backbtn": gdjs.ControlsCode.GDBackbtnObjects2});gdjs.ControlsCode.eventsList0x87d998 = function(runtimeScene) {
 
 {
 
@@ -188,8 +188,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRele
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0xaf0b20
-gdjs.ControlsCode.eventsList0xaf8cc8 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x87d998
+gdjs.ControlsCode.eventsList0x87d8c0 = function(runtimeScene) {
 
 {
 
@@ -201,7 +201,7 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gd
 }if (gdjs.ControlsCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.ControlsCode.eventsList0xaf0b20(runtimeScene);} //End of subevents
+gdjs.ControlsCode.eventsList0x87d998(runtimeScene);} //End of subevents
 }
 
 }
@@ -220,8 +220,8 @@ gdjs.ControlsCode.condition0IsTrue_0.val = gdjs.evtTools.input.wasKeyReleased(ru
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0xaf8cc8
-gdjs.ControlsCode.eventsList0xaf5fd0 = function(runtimeScene) {
+}; //End of gdjs.ControlsCode.eventsList0x87d8c0
+gdjs.ControlsCode.eventsList0x87dee0 = function(runtimeScene) {
 
 {
 
@@ -232,27 +232,27 @@ gdjs.ControlsCode.eventsList0xaf5fd0 = function(runtimeScene) {
 }
 
 
-}; //End of gdjs.ControlsCode.eventsList0xaf5fd0
+}; //End of gdjs.ControlsCode.eventsList0x87dee0
 gdjs.ControlsCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.ControlsCode.eventsList0xa312f0(runtimeScene);
+gdjs.ControlsCode.eventsList0x87d740(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ControlsCode.eventsList0xaf8cc8(runtimeScene);
+gdjs.ControlsCode.eventsList0x87d8c0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.ControlsCode.eventsList0xaf5fd0(runtimeScene);
+gdjs.ControlsCode.eventsList0x87dee0(runtimeScene);
 }
 
 

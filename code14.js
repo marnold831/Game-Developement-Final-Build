@@ -155,7 +155,7 @@ gdjs.End_32GameCode.condition0IsTrue_0 = {val:false};
 gdjs.End_32GameCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.End_32GameCode.mapOfGDgdjs_46End_9532GameCode_46GDBackBtnObjects2Objects = Hashtable.newFrom({"BackBtn": gdjs.End_32GameCode.GDBackBtnObjects2});gdjs.End_32GameCode.eventsList0xd42310 = function(runtimeScene) {
+gdjs.End_32GameCode.mapOfGDgdjs_46End_9532GameCode_46GDBackBtnObjects2Objects = Hashtable.newFrom({"BackBtn": gdjs.End_32GameCode.GDBackBtnObjects2});gdjs.End_32GameCode.eventsList0x78e848 = function(runtimeScene) {
 
 {
 
@@ -170,8 +170,8 @@ gdjs.End_32GameCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRe
 }
 
 
-}; //End of gdjs.End_32GameCode.eventsList0xd42310
-gdjs.End_32GameCode.mapOfGDgdjs_46End_9532GameCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.End_32GameCode.GDStartbtnObjects2});gdjs.End_32GameCode.eventsList0xae6ea8 = function(runtimeScene) {
+}; //End of gdjs.End_32GameCode.eventsList0x78e848
+gdjs.End_32GameCode.mapOfGDgdjs_46End_9532GameCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.End_32GameCode.GDStartbtnObjects2});gdjs.End_32GameCode.eventsList0x9e0030 = function(runtimeScene) {
 
 {
 
@@ -186,8 +186,8 @@ gdjs.End_32GameCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonRe
 }
 
 
-}; //End of gdjs.End_32GameCode.eventsList0xae6ea8
-gdjs.End_32GameCode.eventsList0xa312f0 = function(runtimeScene) {
+}; //End of gdjs.End_32GameCode.eventsList0x9e0030
+gdjs.End_32GameCode.eventsList0x9dfd08 = function(runtimeScene) {
 
 {
 
@@ -199,7 +199,7 @@ gdjs.End_32GameCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(
 }if (gdjs.End_32GameCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.End_32GameCode.eventsList0xd42310(runtimeScene);} //End of subevents
+gdjs.End_32GameCode.eventsList0x78e848(runtimeScene);} //End of subevents
 }
 
 }
@@ -215,7 +215,7 @@ gdjs.End_32GameCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(
 }if (gdjs.End_32GameCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.End_32GameCode.eventsList0xae6ea8(runtimeScene);} //End of subevents
+gdjs.End_32GameCode.eventsList0x9e0030(runtimeScene);} //End of subevents
 }
 
 }
@@ -234,13 +234,13 @@ gdjs.End_32GameCode.GDStatAObjects1.createFrom(runtimeScene.getObjects("StatA"))
 }
 
 
-}; //End of gdjs.End_32GameCode.eventsList0xa312f0
+}; //End of gdjs.End_32GameCode.eventsList0x9dfd08
 gdjs.End_32GameCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.End_32GameCode.eventsList0xa312f0(runtimeScene);
+gdjs.End_32GameCode.eventsList0x9dfd08(runtimeScene);
 }
 
 

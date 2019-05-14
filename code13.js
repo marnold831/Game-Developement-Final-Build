@@ -158,7 +158,7 @@ gdjs.End_32Game_32DeadCode.condition0IsTrue_0 = {val:false};
 gdjs.End_32Game_32DeadCode.condition1IsTrue_0 = {val:false};
 
 
-gdjs.End_32Game_32DeadCode.mapOfGDgdjs_46End_9532Game_9532DeadCode_46GDBackBtnObjects2Objects = Hashtable.newFrom({"BackBtn": gdjs.End_32Game_32DeadCode.GDBackBtnObjects2});gdjs.End_32Game_32DeadCode.eventsList0xae6df8 = function(runtimeScene) {
+gdjs.End_32Game_32DeadCode.mapOfGDgdjs_46End_9532Game_9532DeadCode_46GDBackBtnObjects2Objects = Hashtable.newFrom({"BackBtn": gdjs.End_32Game_32DeadCode.GDBackBtnObjects2});gdjs.End_32Game_32DeadCode.eventsList0x78e848 = function(runtimeScene) {
 
 {
 
@@ -173,8 +173,8 @@ gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseB
 }
 
 
-}; //End of gdjs.End_32Game_32DeadCode.eventsList0xae6df8
-gdjs.End_32Game_32DeadCode.mapOfGDgdjs_46End_9532Game_9532DeadCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.End_32Game_32DeadCode.GDStartbtnObjects2});gdjs.End_32Game_32DeadCode.eventsList0xbe3108 = function(runtimeScene) {
+}; //End of gdjs.End_32Game_32DeadCode.eventsList0x78e848
+gdjs.End_32Game_32DeadCode.mapOfGDgdjs_46End_9532Game_9532DeadCode_46GDStartbtnObjects2Objects = Hashtable.newFrom({"Startbtn": gdjs.End_32Game_32DeadCode.GDStartbtnObjects2});gdjs.End_32Game_32DeadCode.eventsList0x9de2c0 = function(runtimeScene) {
 
 {
 
@@ -189,8 +189,8 @@ gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseB
 }
 
 
-}; //End of gdjs.End_32Game_32DeadCode.eventsList0xbe3108
-gdjs.End_32Game_32DeadCode.eventsList0xf9e750 = function(runtimeScene) {
+}; //End of gdjs.End_32Game_32DeadCode.eventsList0x9de2c0
+gdjs.End_32Game_32DeadCode.eventsList0x9ddf98 = function(runtimeScene) {
 
 {
 
@@ -202,7 +202,7 @@ gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOn
 }if (gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.End_32Game_32DeadCode.eventsList0xae6df8(runtimeScene);} //End of subevents
+gdjs.End_32Game_32DeadCode.eventsList0x78e848(runtimeScene);} //End of subevents
 }
 
 }
@@ -218,7 +218,7 @@ gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOn
 }if (gdjs.End_32Game_32DeadCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.End_32Game_32DeadCode.eventsList0xbe3108(runtimeScene);} //End of subevents
+gdjs.End_32Game_32DeadCode.eventsList0x9de2c0(runtimeScene);} //End of subevents
 }
 
 }
@@ -237,13 +237,13 @@ gdjs.End_32Game_32DeadCode.GDStatAObjects1.createFrom(runtimeScene.getObjects("S
 }
 
 
-}; //End of gdjs.End_32Game_32DeadCode.eventsList0xf9e750
+}; //End of gdjs.End_32Game_32DeadCode.eventsList0x9ddf98
 gdjs.End_32Game_32DeadCode.eventsList0xb2358 = function(runtimeScene) {
 
 {
 
 
-gdjs.End_32Game_32DeadCode.eventsList0xf9e750(runtimeScene);
+gdjs.End_32Game_32DeadCode.eventsList0x9ddf98(runtimeScene);
 }
 
 
